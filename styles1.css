@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  ul {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+#goal-1 {background-color: lightpink}
+#goal-2 {background-color: lightblue}
+#goal-3 {background-color: lightgoldenrodyellow}
+#goal-4 {background-color: lightgreen}
+
+a {
+    text-decoration: none;
+    color: rgb(167,1,78)
+}
+
+a:hover{
+    text-decoration: underline;
+    color: purple;
+}
