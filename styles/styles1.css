@@ -1,0 +1,22 @@
+
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px; 
+}
+
+.goal-1 {background-color: palevioletred}
+.goal-2 {background-color: lightgoldenrodyellow}
+.goal-3 {background-color: palevioletred}
+.goal-4 {background-color: lightgoldenrodyellow}
+
+a {
+    text-decoration: none;
+    color: rgb(167,1,78)
+}
+
+a:hover{
+    text-decoration: underline;
+    color: purple;
+}

@@ -13,31 +13,25 @@ img {
 h1 {
   font-family: "Oswal", sans-serif;
   text-align: center;
-  font-size: 35px;
+  font-size: 48px;
+  color: rgb(71, 62, 62)
+}
+h2 {
+  font-family: "Oswal", sans-serif;
+  text-align: center;
+  font-size: 32px;
 }
 
 p {
-  font-family: "Fira Sans", sans-serif;
-  font-size: 20px;
+  font-family: "Oswal", sans-serif;
+  font-size: 18px;
   text-align: center;
 }
 
 ul {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Oswal", sans-serif;
   font-size: 15px;
-}
-
-.goal-1 {
-  background-color: lightblue;
-}
-.goal-2 {
-  background-color: lightgoldenrodyellow;
-}
-.goal-3 {
-  background-color: lightblue;
-}
-.goal-4 {
-  background-color: lightgoldenrodyellow;
+  list-style:none ;
 }
 
 a {
