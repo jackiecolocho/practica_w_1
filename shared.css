@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+h1 {
+  font-family: "Oswal", sans-serif;
+  text-align: center;
+  font-size: 35px;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  font-family: "Fira Sans", sans-serif;
+  font-size: 15px;
+}
+
+.goal-1 {
+  background-color: lightblue;
+}
+.goal-2 {
+  background-color: lightgoldenrodyellow;
+}
+.goal-3 {
+  background-color: lightblue;
+}
+.goal-4 {
+  background-color: lightgoldenrodyellow;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(167, 1, 78);
+}
+
+a:hover {
+  text-decoration: underline;
+  color: purple;
+}

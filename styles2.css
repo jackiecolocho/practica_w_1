@@ -1,4 +1,3 @@
-
 body {
     text-align: center;
     background-color: rgb(233, 215, 207);
@@ -28,10 +27,10 @@ p {
     font-size: 15px;
   }
 
-.goal-1 {background-color: lightblue}
-.goal-2 {background-color: lightgoldenrodyellow}
-.goal-3 {background-color: lightblue}
-.goal-4 {background-color: lightgoldenrodyellow}
+.step1 {background-color: lightblue}
+.step2 {background-color: lightgoldenrodyellow}
+.step3 {background-color: lightblue}
+.step4 {background-color: lightgoldenrodyellow}
 
 a {
     text-decoration: none;
